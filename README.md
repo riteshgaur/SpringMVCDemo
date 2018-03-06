@@ -1,6 +1,8 @@
-Hello World using *Spring MVC*
+Hello World using *Spring MVC* (Mavean project)
 
 
 
-IDE: Eclipse 
+IDE: Eclipse  
+
+
 
